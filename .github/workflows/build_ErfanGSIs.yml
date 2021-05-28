@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210525164941/b3519b4d/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_MI8_9.9.3_0fb85e6431_9.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
