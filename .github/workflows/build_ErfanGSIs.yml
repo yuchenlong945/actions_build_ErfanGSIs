@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_MI8_9.9.3_0fb85e6431_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://ip113190767.out.azhimalayanvh.com/Firmware/Flyme/meizu18/9.0.2.1/cn/20210425155631/6b138a10/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=54eb068bee75860e18901425d30688d601e5a36d070b6633&ali_redirect_ex_tmining_ts=1622250139&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
